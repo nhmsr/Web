@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## 欢迎进入我的网站，你好陌生人！
+
 
 You can use the [editor on GitHub](https://github.com/nhmsr/Web/edit/master/index.md) to maintain and preview the content for your website in Markdown files
 
